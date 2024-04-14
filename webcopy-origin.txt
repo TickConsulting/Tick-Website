@@ -778,8 +778,8 @@ Uri: https://smartplanblueprint.net/wp-content/uploads/2022/07/SPB-Contact-Us-To
 File Name: C:\Downloaded Web Sites\smartplanblueprint.net\wp-content\uploads\2022\07\SPB-Contact-Us-Top-1.jpg
 Content Type: image/jpeg
 
-Uri: https://smartplanblueprint.net/wp-content/uploads/2022/07/SPB-Graphic-Backs-2.png
-File Name: C:\Downloaded Web Sites\smartplanblueprint.net\wp-content\uploads\2022\07\SPB-Graphic-Backs-2.png
+Uri: https://smartplanblueprint.net/wp-content/uploads/2022/07/3431361__1_-removebg-preview.png
+File Name: C:\Downloaded Web Sites\smartplanblueprint.net\wp-content\uploads\2022\07\3431361__1_-removebg-preview.png
 Content Type: image/png
 
 Uri: https://smartplanblueprint.net/wp-content/uploads/2022/07/SPB-Home-Botton-1.jpg
