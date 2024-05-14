@@ -1,0 +1,3 @@
+08-May-2024 12:06 PM	
+08-May-2024 12:07 PM	{"Body":{"stkCallback":{"MerchantRequestID":"973c-445b-8cb7-7d67f34a211c58276475","CheckoutRequestID":"ws_CO_08052024200725495720862220","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":50.00},{"Name":"MpesaReceiptNumber","Value":"SE87MOZYLB"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20240508200744},{"Name":"PhoneNumber","Value":254720862220}]}}}}
+09-May-2024 12:26 PM	{"Body":{"stkCallback":{"MerchantRequestID":"5bfc-4048-b4bf-8e8e57ad570249498686","CheckoutRequestID":"ws_CO_09052024202615351720862220","ResultCode":1037,"ResultDesc":"DS timeout user cannot be reached"}}}
